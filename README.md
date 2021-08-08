@@ -2,7 +2,7 @@
 
 ### About me 👩
 
-I am a CSE undergraduate student. A fullstack developer in React.js and Node.js. Keenly interested in solving real world problems by implementing web related applications and relevant open source contributions.
+I am a CSE undergraduate . A fullstack developer in React.js and Node.js. Keenly interested in solving real world problems by implementing web related applications and relevant open source contributions.
 Here are some ideas to get you started:
 
 ### Technical Skills
